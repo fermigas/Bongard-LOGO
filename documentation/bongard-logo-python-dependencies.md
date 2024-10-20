@@ -1,4 +1,4 @@
-### publishing to github trial 2 - Testing to see if repo is pulled first
+### publishing to github trial 3 - Testing  commit message
 
 Bongard-LOGO Python Dependencies: a Comprehensive Overview
 
