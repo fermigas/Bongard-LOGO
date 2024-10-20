@@ -1,5 +1,5 @@
-publishing to github trial 1\
-\
+### publishing to github trial 2 - Testing to see if repo is pulled first
+
 Bongard-LOGO Python Dependencies: a Comprehensive Overview
 
 The Bongard-LOGO project, like many Python projects, relies on a set of external libraries to function. These dependencies, listed in the `requirements.txt` file, play important roles in the project's operation. This article examines each of these dependencies, their current and latest versions, their purposes, and how they're used within the project.
