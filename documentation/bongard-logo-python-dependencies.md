@@ -16,6 +16,8 @@ Updating NumPy to the latest version could bring performance improvements and ne
 
 ## Pillow: Image processing made easy
 
+###  THIS ADDED TO TEST INTEGRATION WITH CORTEX. DOES CORTEX PULL IT BACK?  
+
 The project uses Pillow 7.1.2, while the latest version is [pillow 8.3.2](https://pypi.org/project/Pillow/). Pillow, a fork of the Python Imaging Library (PIL), provides extensive file format support, efficient internal representation, and powerful image processing capabilities.
 
 In the Bongard-LOGO project, the Image module from Pillow is imported in both [`bongard_painter.py`](https://github.com/NVlabs/Bongard-LOGO/blob/master/bongard/bongard_painter.py) and [`Bongard-LOGO_Baselines/bongard/bongard_painter.py`](https://github.com/NVlabs/Bongard-LOGO/blob/master/Bongard-LOGO_Baselines/bongard/bongard_painter.py). This suggests that the project involves image creation or manipulation, which aligns with the project's focus on visual reasoning tasks.
