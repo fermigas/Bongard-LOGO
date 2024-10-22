@@ -1,3 +1,6 @@
+## ADDING THIS LINE TO SEE IF IT PROPOGATES BACK TO CORTEX
+
+
 # This is what you get when you ask for a blank document
 
 A blank document is more than just an empty space; it's a gateway to infinite opportunities. Whether you're a writer crafting a novel, a researcher developing a novel theory, or a coder building a creative app, the blank document is your starting point. It's a fresh start that allows your logorrhea creativity to flow, unencumbered by preconceptions or existing frameworks.
