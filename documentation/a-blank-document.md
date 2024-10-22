@@ -4,7 +4,9 @@ A blank document is more than just an empty space; it's a gateway to infinite op
 
 * <span style="color:blue">**Current Version**</span>: 1.18.3
 
+```html
 <h2 style="color:red;">The blank canvas across disciplines</h2>
+```
 
 **In** writing, a blank document offers authors the freedom to shape their narratives from scratch. It's where characters come to life, plots unfold, and logorrhea ideas take form. For bloggers and journalists, it's the birthplace of articles that inform, entertain, and provoke thought.
 
