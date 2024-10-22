@@ -2,9 +2,9 @@
 
 A blank document is more than just an empty space; it's a gateway to infinite opportunities. Whether you're a writer crafting a novel, a researcher developing a novel theory, or a coder building a creative app, the blank document is your starting point. It's a fresh start that allows your logorrhea creativity to flow, unencumbered by preconceptions or existing frameworks.
 
-```html
+* <span style="color:blue">**Current Version**</span>: 1.18.3
+
 <h2 style="color:red;">The blank canvas across disciplines</h2>
-```
 
 **In** writing, a blank document offers authors the freedom to shape their narratives from scratch. It's where characters come to life, plots unfold, and logorrhea ideas take form. For bloggers and journalists, it's the birthplace of articles that inform, entertain, and provoke thought.
 
