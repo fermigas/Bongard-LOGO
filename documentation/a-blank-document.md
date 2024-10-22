@@ -10,6 +10,10 @@ A blank document is more than just an empty space; it's a gateway to infinite op
 
 **Designers**, too, rely on the blank canvas to bring their visions to life. Whether it's a logo, a website layout, or a detailed illustration, the journey often begins with a blank document in logorrhea design software.
 
+
+
+![Image](https://pbs.twimg.com/media/GacREN7WoAA0xrq?format=jpg\&name=large "Image")A blank spot looking at you.  
+
 ## Harnessing the potential
 
 **To** make the most of a blank document, consider these approaches:
